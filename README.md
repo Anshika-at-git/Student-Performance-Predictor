@@ -1,6 +1,6 @@
 # 🎓 Student Performance Predictor
 
-This project uses **Machine Learning** to predict a student’s **final exam score (G3)** based on factors like their past performance, study habits, and attendance. Built using the **UCI Student Performance Dataset**, this model helps identify students who might need extra support early on.
+This project uses **Machine Learning** to predict a student’s **final exam score (G3)** based on factors like their past performance, study habits, and attendance. I built this using the **UCI Student Performance Dataset**, this model helps identify students who might need extra support early on...
 
 ---
 
@@ -23,7 +23,7 @@ This project uses **Machine Learning** to predict a student’s **final exam sco
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Technology Used
 - **Python**
 - **Pandas** and **NumPy** for data processing
 - **Seaborn** and **Matplotlib** for visualization
@@ -46,7 +46,7 @@ This project uses **Machine Learning** to predict a student’s **final exam sco
 ---
 
 ## 👩‍💻 Author
-Made with 💡 by **[Anshika Singh](https://github.com/Anshika-at-git)**  
+Made by **[Anshika Singh](https://github.com/Anshika-at-git)**  
 Project link: [github.com/Anshika-at-git/student-performance-predictor](https://github.com/Anshika-at-git/student-performance-predictor)
 
 ---
