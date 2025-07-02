@@ -11,7 +11,7 @@ This project uses **Machine Learning** to predict a student’s **final exam sco
 ---
 
 ## 📊 Features Used
-- 'G' – First test grade  
+- 'G1' – First test grade  
 - 'G2' – Second test grade  
 - 'studytime' – Weekly study time  
 - 'absences' – Number of absences  
@@ -45,11 +45,10 @@ This project uses **Machine Learning** to predict a student’s **final exam sco
 
 ---
 
-## 👩‍💻 Author
-Made by **[Anshika Singh](https://github.com/Anshika-at-git)**  
-Project link: [github.com/Anshika-at-git/student-performance-predictor](https://github.com/Anshika-at-git/student-performance-predictor)
-
----
+## 👩‍💻 Developed by
+**Anshika Singh**
+4th Sem, B.Tech CSE-AIML
+Oriental Institute of Science & Technology
 
 ## 📢 License
 This project is open-source under the [MIT License](LICENSE).
