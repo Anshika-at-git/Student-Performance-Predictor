@@ -47,7 +47,7 @@ This project uses **Machine Learning** to predict a student’s **final exam sco
 
 ## 👩‍💻 Developed by
 **Anshika Singh**  
-4th Semester, B.Tech (CSE–AIML)  
+5th Semester, B.Tech (CSE–AIML)  
 Oriental Institute of Science & Technology, Bhopal  
 
 ## 📢 License
